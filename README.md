@@ -59,4 +59,4 @@ Designed a machine learning pipeline to classify events in downhill biking using
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg">
 </picture>
 
-> * Creativity and Engineering as the power supply to create my own impact. 🔆*
+>  *“Creativity and Engineering as the power supply to create my own impact.🔆”*
