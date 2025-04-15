@@ -47,4 +47,16 @@ Designed a machine learning pipeline to classify events in downhill biking using
   <a href="https://www.ultralytics.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/50196032?s=200&v=4" width="42px" title="Ultralytics YOLO" /></a>
 </p>
 
+### 🐍 Contribution
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg">
+</picture>
+
 > * Creativity and Engineering as the power supply to create my own impact. 🔆*
