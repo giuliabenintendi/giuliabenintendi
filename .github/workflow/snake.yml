@@ -1,0 +1,38 @@
+name: Contribution Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering of the workflow
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Snakify
+        run: |
+          pip install snakify
+
+      - name: Generate Snake SVGs
+        run: |
+          mkdir -p output
+          # Generate snake for the light theme
+          snakify --color "#94b9ef" --dark-color "#161b22" --output output/github-contribution-grid-snake.svg
+          # Generate snake for the dark theme
+          snakify --color "#161b22" --dark-color "#94b9ef" --output output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit and Push Updates
+        run: |
+          git config --local user.name "github-action"
+          git config --local user.email "github-action@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg output/github-contribution-grid-snake-dark.svg
+          git commit -m "Update GitHub contribution snake animation" || echo "No changes to commit"
+          git push
