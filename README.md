@@ -54,9 +54,9 @@ Designed a machine learning pipeline to classify events in downhill biking using
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/output/github-contribution-grid-snake.svg">
 </picture>
 
 >  *“Creativity and Engineering as the power supply to create my own impact.🔆”*
