@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-I'm **Giulia Benintendi** – a Master's student in Automation Engineering who has found in **computer vision** applied to **healthcare** sparkling light to follow. I'm looking forward to providing creative solutions in a dynamic corporate environment and gaining experience.
+I'm **Giulia Benintendi** – building at the intersection of human-centered AI, social signals, and multi-agent coordination. Hope this is just the beginning.
 
 ---
 
@@ -14,10 +14,13 @@ I'm **Giulia Benintendi** – a Master's student in Automation Engineering who h
 
 ### 🎀👩‍💻 About Me
 
-- 🎓 Master's student @ University of Brescia
+- 🇩🇪 *Soon to be* Guest Research Intern @ [Collaborative AI Centre](https://www.perceptualui.org/), University of Stuttgart
 - 🇫🇷 Currently pursuing Double Degree at **Sorbonne University** 
+- 🎓 Master's student @ University of Brescia
+
 - 🧠 Built ML models to predict **anesthesia depth level** – [ACTIVA Project](https://activa.unibs.it)
-- 👶 Currently working on **gaze trajectory** analysis in preterm infants
+- 👶 Gaze estimation and mutual gaze detection in infant-caregiver interactions @ University of Brescia
+  
 - 💌 Always open to connect, collaborate, and innovate
   
 ### 🐍 Contribution
@@ -27,4 +30,4 @@ I'm **Giulia Benintendi** – a Master's student in Automation Engineering who h
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/output/github-contribution-grid-snake.svg">
 </picture>
 
->  *“Creativity and Engineering as the power supply to create my own impact.🔆”*
+>  *“Make it shine 🔆”*
