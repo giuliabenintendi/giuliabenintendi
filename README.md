@@ -14,7 +14,7 @@ I'm **Giulia Benintendi** – building at the intersection of human-centered AI,
 
 ### 🎀👩‍💻 About Me
 
-- 🇩🇪 *Soon to be* Guest Research Intern @ [Collaborative AI Centre](https://www.perceptualui.org/), University of Stuttgart
+- 🇩🇪 Guest Research Intern @ [Collaborative AI Centre](https://www.perceptualui.org/), University of Stuttgart
 - 🇫🇷 Currently pursuing Double Degree at **Sorbonne University** 
 - 🎓 Master's student @ University of Brescia
 
