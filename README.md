@@ -30,4 +30,3 @@ I'm **Giulia Benintendi** – building at the intersection of human-centered AI,
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giuliabenintendi/giuliabenintendi/output/github-contribution-grid-snake.svg">
 </picture>
 
->  *“Make it shine 🔆”*
